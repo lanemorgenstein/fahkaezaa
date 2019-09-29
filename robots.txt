@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefuojoboh.engsteserieooit.nl/sitemap.xml
